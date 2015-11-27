@@ -1,6 +1,7 @@
-# Python-mysql
-Using python and mysql finish a task
-=============================
+#Python-mysql
+
+#Using python and mysql finish a task
+
 Given a table 'mailing':
 
 CREATE TABLE mailing (
@@ -20,7 +21,7 @@ Use this table to report the top 50 domains by count sorted by percentage growth
 - All processing must be done in Python (eg. no complex queries or sub-queries)
 
 - Submit a compressed file(tar/zip) with the files required to run your script.
-===============================
 
+#Version:
 python version 2.7
 mysql          5.7
